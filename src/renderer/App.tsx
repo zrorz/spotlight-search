@@ -18,7 +18,7 @@ const SpanStyle = styled.span`
 const App: React.FC = () => {
     return (
         <AppStyle>
-            <SpanStyle>spotlight-search</SpanStyle>
+            <SpanStyle>Spotlight Search</SpanStyle>
         </AppStyle>
     )
 }
